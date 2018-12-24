@@ -1,0 +1,173 @@
+﻿  AABB.cpp
+  Animal.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\animal.cpp(19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  AssetManager.cpp
+  Collision.cpp
+  Entity.cpp
+  Game.cpp
+  GameState.cpp
+  Grid.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(60): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(63): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(64): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(67): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(68): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(73): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(74): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(79): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(80): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(87): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(90): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(91): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(94): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(95): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(100): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(101): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(106): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(107): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(114): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(117): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(118): warning C4244: "inicjowanie": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(121): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(122): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(127): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(128): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(133): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(134): warning C4244: "=": konwersja z "T" do "int", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(157): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(160): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(162): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(165): warning C4018: ">": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(208): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(211): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(213): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\grid.cpp(219): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  GridCell.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\gridcell.cpp(8): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Hare.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\hare.cpp(14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  InputManager.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\inputmanager.cpp(8): warning C4244: "argument": konwersja z "T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\inputmanager.cpp(8): warning C4244: "argument": konwersja z "const T" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  main.cpp
+  MainMenuState.cpp
+  SheWolf.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\shewolf.cpp(14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  SplashState.cpp
+  StateMachine.cpp
+  Wolf.cpp
+c:\users\wojtek\desktop\gierka\c-_sfml_game-master\game\game\wolf.cpp(14): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Game.vcxproj -> C:\Users\Wojtek\Desktop\gierka\C-_SFML_Game-master\Game\Debug\Game.exe
