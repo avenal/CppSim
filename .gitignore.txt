@@ -1,40 +1,6 @@
 
-# Created by https://www.gitignore.io/api/c++,visualstudio
-# Edit at https://www.gitignore.io/?templates=c++,visualstudio
-
-### C++ ###
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+# Created by https://www.gitignore.io/api/visualstudio
+# Edit at https://www.gitignore.io/?templates=visualstudio
 
 ### VisualStudio ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -59,6 +25,8 @@
 [Rr]eleases/
 x64/
 x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -102,7 +70,9 @@ StyleCopReport.xml
 *_h.h
 *.ilk
 *.meta
+*.obj
 *.iobj
+*.pch
 *.pdb
 *.ipdb
 *.pgc
@@ -246,7 +216,7 @@ _pkginfo.txt
 # files ending in .cache can be ignored
 *.[Cc]ache
 # but keep track of directories ending in .cache
-!*.[Cc]ache/
+!?*.[Cc]ache/
 
 # Others
 ClientBin/
@@ -266,6 +236,8 @@ orleans.codegen.cs
 # Since there are multiple workflows, uncomment next line to ignore bower_components
 # (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
 #bower_components/
+# ASP.NET Core default setup: bower directory is configured as wwwroot/lib/ and bower restore is true
+**/wwwroot/lib/
 
 # RIA/Silverlight projects
 Generated_Code/
@@ -370,4 +342,7 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-# End of https://www.gitignore.io/api/c++,visualstudio
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# End of https://www.gitignore.io/api/visualstudio
